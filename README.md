@@ -1,4 +1,4 @@
-<h1 align="left">Hola, Me llamo Oscar Daniel Ramirez Torres?</h1>
+<h1 align="left">Hola, Me llamo Oscar Daniel Ramirez Torres</h1>
 
 ###
 
